@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "electron backend",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Merin Varghese",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^4.1.4"
+  }
+}
